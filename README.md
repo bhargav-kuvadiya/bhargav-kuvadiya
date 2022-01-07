@@ -22,3 +22,13 @@ let me let you a bit about myself.
 - [Why do you feel lazy?](https://medium.com/@techdobz/why-do-you-feel-lazy-a88dcae0091a?source=rss-f6357761a3e9------2)
 - [Let’s Crack Neural Network](https://medium.com/@techdobz/lets-crack-neural-network-a7d115c49177?source=rss-f6357761a3e9------2)
 <!-- BLOG-POST-LIST:END -->
+
+## 👨‍💻 Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=techdobz&show_icons=true&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdobz&layout=compact" />
+
+![Metrics](https://github.com/techdobz/techdobz/blob/main/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
