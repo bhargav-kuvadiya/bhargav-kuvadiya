@@ -16,4 +16,9 @@ let me let you a bit about myself.
 
 ## ✨ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Lessons I Learned from Chess, Adapt Now, Your Life Will Never Be the Same](https://medium.com/@techdobz/6-lessons-i-learned-from-chess-adapt-now-your-life-will-never-be-the-same-71ff572dc91a?source=rss-f6357761a3e9------2)
+- [You : I don’t have enough Time. Me : Bulls**t](https://medium.com/@techdobz/you-i-dont-have-enough-time-me-bulls-t-c8036ccef68a?source=rss-f6357761a3e9------2)
+- [Why you don’t do things that you know you should be doing?](https://medium.com/@techdobz/why-you-dont-do-things-that-you-know-you-should-be-doing-e88437cafe1e?source=rss-f6357761a3e9------2)
+- [Why do you feel lazy?](https://medium.com/@techdobz/why-do-you-feel-lazy-a88dcae0091a?source=rss-f6357761a3e9------2)
+- [Let’s Crack Neural Network](https://medium.com/@techdobz/lets-crack-neural-network-a7d115c49177?source=rss-f6357761a3e9------2)
 <!-- BLOG-POST-LIST:END -->
