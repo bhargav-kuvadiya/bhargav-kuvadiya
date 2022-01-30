@@ -11,7 +11,7 @@
 
 let me let you a bit about myself.
 * 💻 Currently working as a freelancer.
-* 👀 Looking for a job opportunity.
+* 👀 Looking for an opportunity.
 * ❤️‍🔥 Love writing & sharing knowledge with others.
 
 ## ✨ Latest Blog Posts
