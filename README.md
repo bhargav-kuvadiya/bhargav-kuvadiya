@@ -27,7 +27,6 @@ let me let you a bit about myself.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=techdobz&show_icons=true&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdobz&layout=compact" />
 
-![Metrics](https://github.com/techdobz/techdobz/blob/main/github-metrics.svg)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
