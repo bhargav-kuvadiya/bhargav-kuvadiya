@@ -25,7 +25,7 @@ let me let you a bit about myself.
 
 ## 👨‍💻 Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=techdobz&show_icons=true&theme=gruvbox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdobz&layout=compact" />
+[![@techdobz's Holopin board](https://holopin.me/techdobz)](https://holopin.io/@techdobz)
 
 
 <p align="center">
