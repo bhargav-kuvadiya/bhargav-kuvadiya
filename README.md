@@ -28,6 +28,6 @@ let me let you a bit about myself.
 [![@techdobz's Holopin board](https://holopin.me/techdobz)](https://holopin.io/@techdobz)
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+[//]: <p align="center">
+[//]: <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+[//]: </p>
