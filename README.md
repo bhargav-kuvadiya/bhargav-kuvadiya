@@ -1,7 +1,6 @@
-# Hi, I'm Bhargav Kuvadiya (🧑🏽‍💻 ✍🏻)
+# Hi, This is Techdobz (🧑🏽‍💻 ✍🏻)
 ![](https://komarev.com/ghpvc/?username=techdobz&color=blue&style=plastic&label=PROFILE+VIEWS)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bhargav-kuvadiya/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://techdobz.herokuapp.com/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/techdobz)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tech_dobz/)
