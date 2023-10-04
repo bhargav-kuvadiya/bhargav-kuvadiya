@@ -9,6 +9,6 @@ let me tell you a bit about myself.
 * ❤️‍🔥 Love writing & sharing knowledge with others.
 
 
-[//]: <p align="center">
-[//]: <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-[//]: </p>
+<p align="center">
+  <img src="assets/wave_ori.svg"/ width="100%">
+</p>
