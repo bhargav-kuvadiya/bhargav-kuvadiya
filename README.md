@@ -14,12 +14,11 @@ let me tell you a bit about myself.
 
 Here are some of the languages and frameworks I'm proficient in:
 
-- **Languages**: Python, JavaScript, C, App Script
-- **Web Development**: HTML, CSS, Jquery
-- **Database**: MySQL
-- **Frameworks**: Django
-- **Version Control**: Git
-- **Tools**: VS Code
+- **Languages**: Python, C, App Script, Go, Shell
+- **Web Development**: HTML, CSS, Jquery, JavaScript
+- **Database**: MySQL, Postgresql
+- **Frameworks**: Django, Flask
+- **Version Control**: Git, Github
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
