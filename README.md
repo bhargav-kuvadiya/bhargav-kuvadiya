@@ -1,4 +1,4 @@
-# Hi, This is Bhargav (🧑🏽‍💻 ✍🏻)
+# Sup?, This is Bhargav (🧑🏽‍💻 ✍🏻)
 ![](https://komarev.com/ghpvc/?username=bhargavnova&color=blue&style=plastic&label=PROFILE+VIEWS)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232EB3F7&lines=I'm+a+E%26C+Engineer,;Full+Stack+Web+Developer,;Tech+%26+Self+Improvement+Blogger,;lifetime+learner!;Nice+to+e-meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)
